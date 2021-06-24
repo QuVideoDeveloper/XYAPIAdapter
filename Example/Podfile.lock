@@ -1,0 +1,16 @@
+PODS:
+  - XYAPIAdapter (0.1.0)
+
+DEPENDENCIES:
+  - XYAPIAdapter (from `../`)
+
+EXTERNAL SOURCES:
+  XYAPIAdapter:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XYAPIAdapter: 083c425c1f21901c46cc26c99bfe66032660adc4
+
+PODFILE CHECKSUM: ccb632fcbec3b33fa1512e869abb286556997d00
+
+COCOAPODS: 1.10.1
